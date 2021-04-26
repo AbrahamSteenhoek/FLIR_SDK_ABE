@@ -1,16 +1,16 @@
-# bin/
-# bin64/
-# cti/
-# cti64/
-# dependencies/
-# doc/
-# driver/
-# driver64/
-# include/
-# lib/
-# lib64/
-# licenses/
-# shortcuts/
+bin/
+bin64/
+cti/
+cti64/
+dependencies/
+doc/
+driver/
+driver64/
+include/
+lib/
+lib64/
+licenses/
+shortcuts/
 .vs/
 
 ## Ignore Visual Studio temporary files, build results, and
