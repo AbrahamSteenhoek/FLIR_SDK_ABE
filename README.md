@@ -10,5 +10,6 @@ Note that the Spinnaker SDK is ideal for certain Machine Vision applications, bu
 
 ## Links
 * [FLIR's Spinnaker SDK download link](https://www.flir.com/support-center/iis/machine-vision/downloads/spinnaker-sdk-and-firmware-download/)
+  * Will download C/C++ API, as well as Python API
 * [Getting Started with Spinnaker SDK](https://flir.custhelp.com/app/answers/detail/a_id/4327/~/getting-started-with-the-spinnaker-sdk/session/L2F2LzEvdGltZS8xNjE5NDUzNzk0L2dlbi8xNjE5NDUzNzk0L3NpZC9mVWhmalhFNmdoQVg4UVVtUmRXakFWYmhOMXVWNnVUbjcxS0s0dGU5X2lYQkl5aDdfR0RZa0ltaUk0bWdmTnU3dE1QRjhUT2I4ZGpQSlZLM2V4M05zdTdMek5PQmY3XyU3RV9Ra1hGbTNTNHQyRzdySThhbmdEWHFOdyUyMSUyMQ==)
 * [Spinnaker C++ Main Page](http://softwareservices.flir.com/Spinnaker/latest/index.html)
